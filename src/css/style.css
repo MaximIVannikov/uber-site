@@ -152,9 +152,7 @@ nav {
     text-transform: uppercase;
     color: #222222;
 }
-.cause .cause_wrapper{
-    margin-top: 141px;
-}
+
 .cause .cause_wrapper .cause_item .cause_round{
     display: flex;
     justify-content: center;
@@ -184,4 +182,6 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    height: 150px;
+    margin: 26px 0 26px 0;
 }
